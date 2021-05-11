@@ -30,7 +30,6 @@ function App() {
 
         {/* ABC-UL ANGAJĂRII */}
         <SectiuneAbc
-          // title="ABC-ul angajării"
           content="„ABC-ul angajării” este secțiunea care anul acesta are la bază diversitatea și pasiunea. Astfel, în această ediție a Abecedarului Carierei ni se alătură oameni de succes care ne vor demonstra că din pasiune se poate creea o carieră incredibilă."
           img="./img/abc.png"
           id="abc-ul"
@@ -98,7 +97,6 @@ function App() {
 
         {/* ANTREPRENORIATUL DE LA A LA TINE */}
         <SectiuneAbc
-          // title="Antreprenoriatul de la A la Tine"
           content="„Antreprenoriatul de la A la Tine” susține dezvoltarea spiritului antreprenorial în rândul tinerilor, constituind „puntea” dintre mediul universitar și cel socio-economic. Secțiunea reprezintă punctul de plecare ideal în crearea unei afaceri."
           img="./img/antreprenoriat.png"
           id="antreprenoriatul"
@@ -142,7 +140,6 @@ function App() {
 
         {/* ECONOMIA DE LA A LA NOI */}
         <SectiuneAbc
-          // title="Economia de la A la Noi"
           content="„Economia de la A la Noi” abordează teme actuale din sfera economică. Astfel, participanții își vor putea creea o idee de ansamblu asupra unor subiecte precum: gestionarea unui buget, educația financiară sau principiile de bază ale TVA-ului."
           img="./img/economia.png"
           id="economia"
